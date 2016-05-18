@@ -1,0 +1,651 @@
+[ 1561.003052] [I SSRV] SOPQS_CTRL_SendEvent(30)
+
+[ 1563.335842] [I SSRV] SOPQS_CTRL_SendEvent(30)
+[ 1563.519729] [I SSRV] SOPQS_CTRL_SendEvent(29)
+[ 1563.523564] [I SSRV] SOPQS_CTRL_SendEvent(7)
+[ 1563.527734] [I SSRV] [ 1563.527746] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1563.527755] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1563.527770] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1563.533963] [I EXTFRC] write command: mainID=7 subID=1 value=0x0000
+[ 1563.534368] [I EXTFRC] write command: mainID=7 subID=0 value=0x0001
+[ 1563.534766] [I EXTFRC] write command: mainID=7 subID=4 value=0x0000
+[ 1563.535160] [I EXTFRC] write command: mainID=7 subID=5 value=0x0000
+
+[ 1563.571428] [I EXTFRC] SOPQS_CTRL_SendEvent(5)
+[ 1563.575954] [I SSRV] [ 1563.575992] write command: mainID=7 subID=2 value=0x0000
+SOPQS_CTRL_SendEvent(30)
+[ 1563.585903] [I EXTFRC] write command: mainID=7 subID=3 value=0x0000
+[ 1563.599095] [OSD]OSD_PLA_SetMatrixEnable set all planes matrix 0
+d[ 1563.604689] [I SSRV] SOPQS_CTRL_SendEvent(4)
+[ 1563.608953] [I DSHP] sopq_vpv_notify_m2_sharpness_idx_chg(gp_id =6, index = 66)
+[ 1563.614524] [I SSRV] SOPQS_CTRL_SendEvent(29)
+[ 1563.614549] AP set Output Window Width or Height is 0
+[ 1563.614585] [I SSRV] SOPQS_CTRL_SendEvent(7)
+[ 1563.614624] [I SSRV] SOPQS_CTRL_SendEvent(7)
+[ 1563.634058] [I DSHP] update_ds_fdet_spk(index = 0)
+[ 1563.638869] [I DSHP] update_ds_basic_spk(index = 1)
+[ 1563.643696] [I DSHP] update_ds_noise_spk(index = 3)
+[ 1563.648492] [I DSHP] update_ds_frq_spk(index = 1)
+[ 1563.653151] [I DSHP] update_ds_upc_spk(index = 1)
+[ 1563.657823] [I DSHP] update_ds_lfr_spk(index = 0)
+[ 1563.662498] [I DSHP] update_ds_srvol_spk(index = 5)
+[ 1563.667369] [I DSHP] update_ds_srvln_spk(index = 0)
+[ 1563.672226] [I DSHP] update_ds_srdr1_spk(index = 1)
+[ 1563.677084] [I DSHP] update_ds_srdr2_spk(index = 1)
+[ 1563.681949] [I DSHP] update_ds_srrng_spk(index = 0)
+[ 1563.686813] [I DSHP] update_ds_srgrd_spk(index = 0)
+[ 1563.691679] [I DSHP] update_ds_hsc_spk(index = 0)
+[ 1563.696356] [I DSHP] update_ds_hsg_spk(index = 0)
+[ 1563.701349] [I DSHP] update_ds_tdsc_spk(index = 0)
+[ 1563.705811] [I DSHP] update_ds_tdsg_spk(index = 0)
+[ 1563.710633] [I DSHP] update_ds_edg_spk(index = 2)
+[ 1563.715313] [I DSHP] update_ds_ltic_spk(index = 0)
+[ 1563.720112] [I DSHP] update_ds_ltig_spk(index = 0)
+[ 1563.724935] [I DSHP] update_ds_nsr_spk(index = 0)
+[ 1563.729555] [I DSHP] update_ds_nbnr_spk(index = 0)
+[ 1563.734574] [I DSHP] update_srs_cmix_hpk(index = 0)
+[ 1563.739216] [I DSHP] update_pbc_range_hpk(index = 0)
+[ 1563.744228] [I DSHP] update_srs_lvd_hpk(index = 7)
+[ 1563.748888] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1563.752831] [I SSRV] SOPQS_CTRL_SendEvent(30)
+[ 1563.758168] [D EXTFRC] sopq_ext_notify_frc_idx_chg(gp_id = 69, index = 0, cause = 1)
+[ 1563.765849] [I EXTFRC] Flash load PQP_EFRC_PICRESO(idx:0)
+[ 1563.771188] [I EXTFRC] update_efrc_picreso_spk()
+[ 1563.775776] [I EXTFRC] Flash load PQP_EFRC_PICRESO_SPK(idx:0)
+[ 1563.781546] [I DSHP] update_srs_lvd_hpk(index = 7)
+[ 1563.786276] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1563.791142] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1563.796938] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1563.802257] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1563.807367] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1563.813226] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1563.818509] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1563.824696] [I EXTFRC] write command: mainID=7 subID=1 value=0x0000
+[ 1563.830340] [I EXTFRC] write command: mainID=7 subID=0 value=0x0001
+[ 1563.836719] [I EXTFRC] write command: mainID=7 subID=4 value=0x0000
+[ 1563.843003] [I EXTFRC] write command: mainID=7 subID=5 value=0x0000
+[ 1563.850009] [I EXTFRC] write command: mainID=7 subID=2 value=0x0000
+[ 1563.855753] [I EXTFRC] write command: mainID=7 subID=3 value=0x0000
+[ 1563.861999] [I EXTFRC] write command: mainID=15 subID=48 value=0x0000
+
+[ 1565.601881] [I SSRV] SOPQS_CTRL_SendEvent(21)
+
+[ 1565.622876] [I SSRV] SOPQS_CTRL_SendEvent(30)
+
+[ 1565.637503] [I SSRV] SOPQS_CTRL_SendEvent(23)
+_
+[ 1565.921847] [I SSRV] SOPQS_CTRL_SendEvent(4)
+[ 1565.926250] [I DSHP] [ 1565.926340] [I SSRV] SOPQS_CTRL_SendEvent(29)
+[ 1565.926389] [I SSRV] SOPQS_CTRL_SendEvent(7)
+
+[ 1565.936855] sopq_vpv_notify_m2_sharpness_idx_chg(gp_id =6, index = 70)
+[ 1565.943496] [I DSHP] update_ds_fdet_spk(index = 2)
+
+[ 1565.957286] [I DSHP] update_ds_basic_spk(index = 1)
+[ 1565.962036] [I DSHP] update_ds_noise_spk(index = 7)
+[ 1565.967199] [I DSHP] update_ds_frq_spk(index = 1)
+[ 1565.971584] [I DSHP] update_ds_upc_spk(index = 5)
+
+[ 1565.974079] [I SSRV] SOPQS_CTRL_SendEvent(4)
+[ 1565.981208] [I SSRV] SOPQS_CTRL_SendEvent(23)
+[ 1565.991094] [I DSHP] update_ds_lfr_spk(index = 0)
+[ 1565.995720] [I DSHP] update_ds_srvol_spk(index = 7)
+[ 1566.000638] [I DSHP] update_ds_srvln_spk(index = 1)
+[ 1566.005483] [I DSHP] update_ds_srdr1_spk(index = 1)
+[ 1566.010398] [I DSHP] update_ds_srdr2_spk(index = 1)
+[ 1566.015217] [I DSHP] update_ds_srrng_spk(index = 0)
+[ 1566.020073] [I DSHP] update_ds_srgrd_spk(index = 1)
+[ 1566.024921] [I DSHP] update_ds_hsc_spk(index = 0)
+[ 1566.029558] [I DSHP] update_ds_hsg_spk(index = 0)
+[ 1566.034301] [I DSHP] update_ds_tdsc_spk(index = 0)
+[ 1566.039036] [I DSHP] update_ds_tdsg_spk(index = 0)
+[ 1566.043851] [I DSHP] update_ds_edg_spk(index = 2)
+[ 1566.048487] [I DSHP] update_ds_ltic_spk(index = 0)
+[ 1566.053240] [I DSHP] update_ds_ltig_spk(index = 0)
+[ 1566.058004] [I DSHP] update_ds_nsr_spk(index = 0)
+[ 1566.062702] [I DSHP] update_ds_nbnr_spk(index = 0)
+[ 1566.067462] [I DSHP] update_srs_cmix_hpk(index = 0)
+[ 1566.072327] [I DSHP] update_pbc_range_hpk(index = 1)
+[ 1566.077290] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.082049] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.086944] [D EXTFRC] sopq_ext_notify_frc_idx_chg(gp_id = 69, index = 4, cause = 1)
+[ 1566.094661] [I EXTFRC] Flash load PQP_EFRC_PICRESO(idx:4)
+[ 1566.100048] [I EXTFRC] update_efrc_picreso_spk()
+[ 1566.104623] [I EXTFRC] Flash load PQP_EFRC_PICRESO_SPK(idx:4)
+[ 1566.110385] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.115133] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.120011] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1566.125819] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1566.131109] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1566.136210] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.140972] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.146962] [I EXTFRC] write command: mainID=7 subID=1 value=0x0000
+[ 1566.152578] [I EXTFRC] write command: mainID=7 subID=0 value=0x0001
+[ 1566.158911] [I EXTFRC] write command: mainID=7 subID=4 value=0x0000
+[ 1566.165247] [I EXTFRC] write command: mainID=7 subID=5 value=0x0000
+[ 1566.171566] [I EXTFRC] write command: mainID=7 subID=2 value=0x0000
+[
+[ 1566.179188] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1566.179283] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1566.179580] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1566.179646] [I SSRV] SOPQS_CTRL_SendEvent(22)
+[ 1566.179751] [I SSRV] SOPQS_CTRL_SendEvent(3)
+[ 1566.179871] [I SSRV] SOPQS_CTRL_SendEvent(3)
+[ 1566.186365] [I SSRV] SOPQS_CTRL_SendEvent(29)
+[ 1566.186416] [I SSRV] SOPQS_CTRL_SendEvent(7)
+[ 1566.247693] [I EXTFRC] write command: mainID=7 subID=3 value=0x0000
+[ 1566.254036] [I EXTFRC] [ 1566.254675] DRV_CUSTOM_AUD_HEAAC_DR gSoundSetting.eDynamicRang z_size = 4, sizeof(E_CUST_AUD_DYNAMIC_RANGE) = 4 ~~~~~~~~~~~~~~~~~
+
+[ 1566.257777] [I SSRV] SOPQS_CTRL_SendEvent(21)
+
+[ 1566.277332] [I SSRV] SOPQS_CTRL_SendEvent(23)
+
+[ 1566.330834] [I DSHP] sopq_vpv_notify_m2_sharpness_idx_chg(gp_id =6, index = 80)
+[ 1566.338111] [I DSHP] update_ds_fdet_spk(index = 2)
+[ 1566.342847] [I DSHP] update_ds_basic_spk(index = 1)
+[ 1566.347711] [I DSHP] update_ds_noise_spk(index = 7)
+[ 1566.352569] [I DSHP] update_ds_frq_spk(index = 1)
+[ 1566.357255] [I DSHP] update_ds_upc_spk(index = 5)
+[ 1566.361943] [I DSHP] update_ds_lfr_spk(index = 0)
+[ 1566.367076] [I DSHP] update_ds_srvol_spk(index = 7)
+[ 1566.371602] [I DSHP] update_ds_srvln_spk(index = 1)
+[ 1566.376353] [I DSHP] update_ds_srdr1_spk(index = 1)
+[ 1566.381211] [I DSHP] update_ds_srdr2_spk(index = 1)
+[ 1566.386128] [I DSHP] update_ds_srrng_spk(index = 0)
+[ 1566.390932] [I DSHP] update_ds_srgrd_spk(index = 1)
+[ 1566.395823] [I DSHP] update_ds_hsc_spk(index = 0)
+[ 1566.400801] [I DSHP] update_ds_hsg_spk(index = 0)
+[ 1566.405287] [I DSHP] update_ds_tdsc_spk(index = 0)
+[ 1566.409987] [I DSHP] update_ds_tdsg_spk(index = 0)
+[ 1566.414730] [I DSHP] update_ds_edg_spk(index = 2)
+[ 1566.419424] [I DSHP] update_ds_ltic_spk(index = 0)
+[ 1566.424188] [I DSHP] update_ds_ltig_spk(index = 0)
+
+[ 1566.435290] [HDMI]========HDMI Video Status========
+[ 1566.435301] [HDMI]CKDT detected
+[ 1566.435312] [HDMI]SCDT detected
+[ 1566.435325] [HDMI]width: 1920
+[ 1566.435335] [HDMI]height: 1080
+[ 1566.435347] [HDMI]htotal: 2200
+[ 1566.435358] [HDMI]vtotal: 1125
+[ 1566.435477] [HDMI]pixel freq: 148545000HZ
+[ 1566.435603] [HDMI]refresh rate: 60
+[ 1566.435617] [HDMI]progressive signal
+[ 1566.435625] [HDMI]HDMI mode
+[ 1566.435636] [HDMI]YC444_709
+[ 1566.435642] [HDMI]8 bit
+[ 1566.435655] [HDMI]Tx scrambling dis
+[ 1566.435670] [HDMI]TMDS clock ratio-1:10
+[ 1566.435679] [HDMI]Av Mute:0
+[ 1566.435701] [HDMI]========HDMI HDCP Status========
+[ 1566.435714] [HDMI]HDCP1.4 auth fail
+[ 1566.435729] [HDMI]Hdcp2.2 cchk done
+[ 1566.435750] [HDMI]========HDMI Other Status========
+[ 1566.435755] [HDMI]5v:1
+[ 1566.435761] [HDMI]Hpd:1
+[ 1566.435767] [HDMI]CKDT:1
+[ 1566.435774] [HDMI]SCDT:1
+[ 1566.435784] [HDMI]TMDSClk:148545
+[ 1566.435794] [HDMI]Htotal:2200
+[ 1566.435803] [HDMI]Vtotal:1125
+[ 1566.435811] [HDMI]Width:1920
+[ 1566.435820] [HDMI]Height:1080
+[ 1566.435829] [HDMI]HDMImode:1
+[ 1566.435837] [HDMI]HDCPver:0
+[ 1566.435844] [HDMI]HDCP14:0
+[ 1566.435852] [HDMI]HDCP22:0
+[ 1566.435858] [HDMI]Depth:0
+[ 1566.435867] [HDMI]Colorspc:4
+[ 1566.435873] [HDMI]Range:0
+[ 1566.435880] [HDMI]Scan:0
+[ 1566.435890] [HDMI]AspactRatio:2
+[ 1566.435896] [HDMI]AFD:8
+[ 1566.435901] [HDMI]ITC:0
+[ 1566.435911] [HDMI]ITCcontent:0
+[ 1566.435916] [HDMI]3D:0
+[ 1566.435924] [HDMI]3DFormat:0
+
+[ 1566.436563] [I SSRV] SOPQS_CTRL_SendEvent(4)
+[ 1566.443809] [I SSRV] SOPQS_CTRL_SendEvent(23)
+
+[ 1566.452482] [I SSRV] SOPQS_CTRL_SendEvent(4)
+
+[ 1566.457512] [I SSRV] SOPQS_CTRL_SendEvent(29)
+[ 1566.457569] [I SSRV] SOPQS_CTRL_SendEvent(7)
+
+[ 1566.558636] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1566.558810] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1566.559127] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1566.559242] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1566.565296] [I SSRV] SOPQS_CTRL_SendEvent(23)
+[ 1566.602621] [I SSRV] SOPQS_CTRL_SendEvent(5)
+
+[ 1566.676719] [I SSRV] SOPQS_CTRL_SendEvent(4)
+[ 1566.677163] [I SSRV] SOPQS_CTRL_SendEvent(21)
+[ 1566.677223] [I SSRV] SOPQS_CTRL_SendEvent(3)
+[ 1566.677339] [I SSRV] SOPQS_CTRL_SendEvent(3)
+[ 1566.686698] [I SSRV] SOPQS_CTRL_SendEvent(5)
+[ 1566.716481] [I DSHP]
+
+[ 1566.718559] [I DSHP] update_ds_nbnr_spk(index = 0)
+[ 1566.718565] [I DSHP] update_srs_cmix_hpk(index = 0)
+[ 1566.718571] [I DSHP] update_pbc_range_hpk(index = 1)
+[ 1566.718577] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.718582] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.718682] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.718686] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.718697] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.718701] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.718724] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1566.718732] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1566.718749] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1566.718770] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.718774] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.718780] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.718784] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.718793] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1566.718798] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1566.718804] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1566.718823] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.718827] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.718840] [I DSHP] sopq_vpv_notify_m2_sharpness_idx_chg(gp_id =6, index = 70)
+[ 1566.718870] [I DSHP] update_ds_fdet_spk(index = 2)
+[ 1566.718875] [I DSHP] update_ds_basic_spk(index = 1)
+[ 1566.718879] [I DSHP] update_ds_noise_spk(index = 7)
+[ 1566.718883] [I DSHP] update_ds_frq_spk(index = 1)
+[ 1566.718888] [I DSHP] update_ds_upc_spk(index = 5)
+[ 1566.718892] [I DSHP] update_ds_lfr_spk(index = 0)
+[ 1566.718896] [I DSHP] update_ds_srvol_spk(index = 7)
+[ 1566.718901] [I DSHP] update_ds_srvln_spk(index = 1)
+[ 1566.718906] [I DSHP] update_ds_srdr1_spk(index = 1)
+[ 1566.718910] [I DSHP] update_ds_srdr2_spk(index = 1)
+[ 1566.718916] [I DSHP] update_ds_srrng_spk(index = 0)
+[ 1566.718919] [I DSHP] update_ds_srgrd_spk(index = 1)
+[ 1566.718925] [I DSHP] update_ds_hsc_spk(index = 0)
+[ 1566.718929] [I DSHP] update_ds_hsg_spk(index = 0)
+[ 1566.718934] [I DSHP] update_ds_tdsc_spk(index = 0)
+[ 1566.718939] [I DSHP] update_ds_tdsg_spk(index = 0)
+[ 1566.718944] [I DSHP] update_ds_edg_spk(index = 2)
+[ 1566.718948] [I DSHP] update_ds_ltic_spk(index = 0)
+[ 1566.718952] [I DSHP] update_ds_ltig_spk(index = 0)
+[ 1566.718956] [I DSHP] update_ds_nsr_spk(index = 0)
+[ 1566.718960] [I DSHP] update_ds_nbnr_spk(index = 0)
+[ 1566.718964] [I DSHP] update_srs_cmix_hpk(index = 0)
+[ 1566.718968] [I DSHP] update_pbc_range_hpk(index = 1)
+[ 1566.718972] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.718976] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.719159] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.719163] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.719168] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1566.719172] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1566.721418] [I EXTFRC] write command: mainID=7 subID=1 value=0x0000
+[ 1566.721850] [I EXTFRC] write command: mainID=7 subID=0 value=0x0001
+[ 1566.722270] [I EXTFRC] write command: mainID=7 subID=4 value=0x0000
+[ 1566.722689] [I EXTFRC] write command: mainID=7 subID=5 value=0x0000
+[ 1566.723102] [I EXTFRC] write command: mainID=7 subID=2 value=0x0000
+[ 1566.723643] [I EXTFRC] write command: mainID=7 subID=3 value=0x0000
+
+[ 1567.067811] [I SSRV] [ 1567.068246] [AUD]AUD_LineInChNumFormat -> *pu4Format = 0x100000c0
+
+[ 1567.097983] SOPQS_CTRL_SendEvent(7)
+[ 1567.102514] [I SSRV] SOPQS_CTRL_SendEvent(7)
+[ 1567.103702] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1567.103719] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1567.103734] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+
+[ 1567.118539] [I EXTFRC] write command: mainID=7 subID=1 value=0x0000
+[ 1567.119259] [I EXTFRC] write command: mainID=7 subID=0 value=0x0001
+[ 1567.119833] [I EXTFRC] write command: mainID=7 subID=4 value=0x0000
+[ 1567.120223] [I EXTFRC] write command: mainID=7 subID=5 value=0x0000
+[ 1567.120606] [I EXTFRC] write command: mainID=7 subID=2 value=0x0000
+[ 1567.120992] [I EXTFRC] write command: mainID=7 subID=3 value=0x0000
+[ 1567.167427] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+
+[ 1567.181063] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1567.186385] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1567.192620] [I EXTFRC] write command: mainID=7 subID=1 value=0x0000
+[ 1567.198110] [I EXTFRC] write command: mainID=7 subID=0 value=0x0001
+[ 1567.204532] [I EXTFRC] write command: mainID=7 subID=4 value=0x0000
+[ 1567.210912] [I EXTFRC] write command: mainID=7 subID=5 value=0x0000
+[ 1567.218415] [I EXTFRC] write command: mainID=7 subID=2 value=0x0000
+[ 1567.223600] [I EXTFRC] write command: mainID=7 subID=3 value=0x0000
+
+[ 1567.301787] [I SSRV] SOPQS_CTRL_SendEvent(22)
+
+[ 1567.339101] [I SSRV] SOPQS_CTRL_SendEvent(22)
+[ 1567.342473] [I SSRV] SOPQS_CTRL_SendEvent(22)
+[ 1567.346797] [I SSRV] SOPQS_CTRL_SendEvent(22)
+[ 1567.351208] [I SSRV] SOPQS_CTRL_SendEvent(22)
+[ 1567.355490] [I SSRV] SOPQS_CTRL_SendEvent(4)
+[ 1567.359887] [I SSRV]
+[ 1567.359894] [I DSHP] update_srs_lvd_hpk(index = 4)
+[ 1567.359901] [I DSHP] update_shp_ylev_lpk(index = 3)
+[ 1567.372042] SOPQS_CTRL_SendEvent(29)
+[ 1567.375250] [I SSRV] SOPQS_CTRL_SendEvent(7)
+[ 1567.379760] [D EXTFRC] sopq_ext_frc_set_dest_area_sub(0,0,0,0)
+[ 1567.385270] [D EXTFRC] set_osd_mask_area (0,1) [0,0,0,0]
+[ 1567.390591] [D EXTFRC] sopq_ext_frc_set_window_mode(0)
+[ 1567.396771] [I EXTFRC] write command: mainID=7 subID=1 value=0x0000
+[ 1567.403209] [I EXTFRC] write command: mainID=7 subID=0 value=0x0001
+[ 1567.408756] [I EXTFRC] [ 1567.409285] From EEPROM and it is no 3D Model
+
+[ 1567.472040] [I EXTFRC] write command: mainID=7 subID=5 value=0x0000
+[ 1567.477783] [I EXTFRC] write command: mainID=7 subID=2 value=0x0000
+[ 1567.484550] [I EXTFRC] write command: mainID=7 subID=3 value=0x0000
+
+[ 1567.886186] [I SSRV] SOPQS_CTRL_SendEvent(4)
+[ 1567.889080] [I DSHP] [ 1567.890520] From EEPROM and it is no 3D Model
+update_srs_lvd_hpk(index = 4)
+[ 1567.897981] [I DSHP] [ 1567.900667] From EEPROM and it is no 3D Model
+update_shp_ylev_lpk(index = 3)
+[ 1567.906785] From EEPROM and it is no 3D Model
+pui2_idx = 28.
+[ 1567.916852] From EEPROM and it is no 3D Model
+[ACFG][acfg_custom_get_elem_ind[ 1567.923080] From EEPROM and it is no 3D Model
+ex][7993]: *pui2_idx = 28.
+______get_proper_di[ 1567.931431] From EEPROM and it is no 3D Model
+[ 1567.937717] [I SSRV] SOPQS_CTRL_SendEvent(23)
+sp_area_by_scan_info_enter_____
+{NW_APP} <ACFG[ 1567.947393] From EEPROM and it is no 3D Model
+>:screen_mode get pos_h elem_index=3, value=0
+[ 1567.957026] From EEPROM and it is no 3D Model
+{NW_APP} <ACFG>:screen_mode get pos_v elem_index=3, value=0
+joe._acfg_custom_android_info_callback_nfy i2_value:-1 mode:0
+joe.fg_b_3d_detect_msg_disable FALSE
+a_cfg_cus[ 1567.980034] From EEPROM and it is no 3D Model
+tom_audio_android_world_src_change_update ~~~~~~~~~
+[dtv_app[ 1567.989402] From EEPROM and it is no 3D Model
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_[ 1568.000010] From EEPROM and it is no 3D Model
+cfg_custom_get_audio_filter() f[ 1568.006799] From EEPROM and it is no 3D Model
+ailed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio[ 1568.015261] From EEPROM and it is no 3D Model
+_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed[ 1568.024524] From EEPROM and it is no 3D Model
+, i4_ret=-7.
+{[ 1568.033662] From EEPROM and it is no 3D Model
+ACFG} <NAV>Err: _nav_audio_info[ 1568.039606] From EEPROM and it is no 3D Model
+_acfg_gasd_to_mts() failed, ret[ 1568.046442] From EEPROM and it is no 3D Model
+ = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_th[ 1568.055286] From EEPROM and it is no 3D Model
+is->t_last_notify.i2_value=2
+**** [nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2873)
+[na[ 1568.070567] From EEPROM and it is no 3D Model
+v_audio_info.c]:a_nav_ai_cfg_mt[ 1568.078439] From EEPROM and it is no 3D Model
+s_change_hdlr(2876) t_audio_info.e_channels = 0.
+[dtv_app_mtk[ 1568.087653] From EEPROM and it is no 3D Model
+APP_CFG_RECID_AUD_MTS set 1 [ 1568.095821] From EEPROM and it is no 3D Model
+~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info[ 1568.106600] From EEPROM and it is no 3D Model
+.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[TVAPI]<mtktvapi_volctrl.c: 335:a_m[ 1568.127421] From EEPROM and it is no 3D Model
+tktvapi_volctrl_notify_internal_vol_change>
+[[ 1568.137803] From EEPROM and it is no 3D Model
+APP_AUDIO] nav_audio_info.c:296[ 1568.143051] From EEPROM and it is no 3D Model
+8 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mo[ 1568.155590] WB Method  0, CT_Index:1   Gamma_Index : 1
+[ 1568.159931] Tracking
+[ 1568.159931]
+[ 1568.165127] From EEPROM and it is no 3D Model
+de [=  105 6~8~.~1~7~0~6~8~0~]~ From EEPROM and it is no 3D Model
+[ 1568.174321] Set DRV_CUSTOM_CUST_SPEC_GET_BEPQ_SCREEN_INFO_FROM_AP Done!
+[ 1568.180502] [I SSRV] [ 1568.180699] Set DRV_CUSTOM_CUST_SPEC_GET_BEPQ_SCREEN_INFO_FROM_AP Done!
+[ 1568.181192] Set DRV_CUSTOM_CUST_SPEC_GET_BEPQ_SCREEN_INFO_FROM_AP Done!
+[ 1568.181335] Set DRV_CUSTOM_CUST_SPEC_GET_BEPQ_SCREEN_INFO_FROM_AP Done!
+SOPQS_CTRL_SendEvent(22)
+[ 1568.204568] [I SSRV] [ 1568.205997] From EEPROM and it is no 3D Model
+
+SOPQS_CTRL_SendEvent(22)
+[ 1568.321687] [I SSRV] SOPQS_CTRL_SendEvent(22)
+[ 1568.326013] [I SSRV] SOPQS_CTRL_SendEvent(22)
+~~~~~~~
+update APP_CFG_RECID_AUD_CUST_VOL_OFF[ 1568.336298] [I SSRV] SOPQS_CTRL_SendEvent(5)
+SET i1_input_level_offset = 0 ~~~~~~~~~~~~~
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_cfg_custom_get_audio_filter() failed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed, i4_ret=-7.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts() failed, ret = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_this->t_last_notify.i2_value=2
+**** [nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2873)
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2876) t_audio_info.e_channels = 0.
+APP_CFG_RECID_AUD_MTS set 1 ~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+update APP_CFG_RECID_AUD_CUST_VOL_OFFSET i1_input_level_offset = 0 ~~~~~~~~~~~~~
+[DRV_INTERFACE] Set Operation Error. (-16)
+{ACFG} <ACFG> Return fail:acfg_cust_audio.c:10947:-16
+{ACFG} <ACFG> Return fail:acfg_cust_audio.c:16126:-16
+[dtv_app_mtk[ 1568.468960] [MUTE]MJC_MUTE(0)
+APP_CFG_RECID_AUD_CUST_DOBLY_DYNAMIC_RANGE e_doble_dynamic_range = 0 ~~~~~~~~~~~~~~
+update APP_CFG_RECID_AUD_CUST_HE_AAC_DYNAMIC_RANGE e_he_aac_dynamic_range = 0 ~~~~~~~~~~~~~
+update APP_CFG_RECID_AUD_CUST_HE_AAC_AUDIO_LEVEL i1_he_aac_audio_level = 0 ~~~~~~~~~~~~~
+update APP_CFG_RECID_AUD_CUST_MPEG_LEVEL i1_mpeg_level = 0 ~~~~~~~~~~~~~
+update APP_CFG_RECID_AUD_CUST_VOL_OFFSET i1_input_level_offset = 0 ~~~~~~~~~~~~~
+get APP_CFG_RECID_DOLBY_DIGITAL_PLUS_OUT  ~~~~~~~~
+ e_scc_type: 1  ~~~~~~~~
+ ui1_sac_flag: 0  ~~~~~~~~
+GET_AUD_DOLBY_PLUS_OUT,elem_idx = 3,i2_val = 1,
+GET_AUD_DOLBY_PLUS_OUT,elem_idx = 3,i2_val = 1,
+acfg_cust_audio.c,line[11163] update digital_plus_out off
+acfg_custom_get_dd_capbility pi2_dd_cap: 0
+APP_CFG_RECID_DOLBY_DIGITAL_PLUS_OUT i2_dd_cap= 0,line:11204
+acfg_custom_set_dd_capbility i2_dd_cap: 0
+get APP_CFG_RECID_DOLBY_DIGITAL_PLUS_OUT  ~~~~~~~~
+ e_scc_type: 1  ~~~~~~~~
+ ui1_sac_flag: 0  ~~~~~~~~
+GET_AUD_DOLBY_PLUS_OUT,elem_idx = 3,i2_val = 1,
+GET_AUD_DOLBY_PLUS_OUT,elem_idx = 3,i2_val = 1,
+APP_CFG_RECID_DOLBY_DIGITAL_PLUS_OUT : 1
+a_cfg_get_cec_sac_func : 0
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 24
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 4
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+ACFG_CUST_INPUT_TYPE_HDMI photo judgment: no photo judgment notify !!!!!!!!!
+ui4_hdmi_hdr: 0
+<acfg> format update and  HDMI is SDR Mode
+{NW_APP} <ACFG>:screen_mode get auto_wide elem_index=3, value=1
+==========22[CURENT default value 8]==========
+[ACFG][acfg_custom_get_elem_index][7993]: *pui2_idx = 26.
+[ACFG][acfg_custom_get_elem_index][7993]: *pui2_idx = 26.
+______get_proper_disp_area_by_scan_info_enter_____
+CURRENT Screen mode is 8
+ MTVDO_SetOverScan in disp format change. 0 ,0,0,0,
+[dtv_app_mtk]>{NW_APP} <ACFG>:screen_mode get pos_h elem_index=41, value=0
+{NW_APP} <ACFG>:screen_mode get pos_v elem_index=41, value=0
+{NW_APP} <ACFG> Return fail:acfg_custom.c:8355:-6
+{ACFG} <ACFG> Return fail:acfg_cust_video.c:13164:-6
+{ACFG} <ACFG> Return fail:acfg_cust_video.c:17634:-6
+{NW_APP} <ACFG> Return fail:acfg_custom.c:10855:-6
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_cfg_custom_get_audio_filter() failed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed, i4_ret=-7.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts() failed, ret = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_this->t_last_notify.i2_value=2
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2876) t_audio_info.e_channels = 4.
+APP_CFG_RECID_AUD_MTS set 1 ~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 5
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 24
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 24
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 6
+acfg_custom_update ACFG_UPDATE_REASON_CHG_AUD_FMT @@@@@@@@@@@@@@@
+acfg_custom_update_all android source ui1_src_idx: 3  ! ~~~~~~~~~~
+No Need to show scene status for Android _nav_show_scene_status_osd_func
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+****[nav_event_info_view.c]:_nav_ei_view_update_audio_info(2213) t_audio_ash.e_dec_type=0, pt_src_info->e_src_type=2
+**** [nav_event_info_view.c]: _nav_ei_view_update_audio_info(2219) pt_audio_info->e_status=1
+{NAVIGATOR} [nav_event_info_view]Error: _nav_ei_view_update_audio_info(2299): a_nav_ib_info_get_active_status_msg_ex fail, i4_ret = -8
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.dev_____update pos_1_____
+joe.dev_____update pos_1_____
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_cfg_custom_get_audio_filter() failed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed, i4_ret=-7.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts() failed, ret = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_this->t_last_notify.i2_value=2
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2876) t_audio_info.e_channels = 4.
+APP_CFG_RECID_AUD_MTS set 1 ~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 6
+acfg_custom_update ACFG_UPDATE_REASON_CHG_AUD_FMT @@@@@@@@@@@@@@@
+acfg_custom_update_all android source ui1_src_idx: 3  ! ~~~~~~~~~~
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_cfg_custom_get_audio_filter() failed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed, i4_ret=-7.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts() failed, ret = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_this->t_last_notify.i2_value=2
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2876) t_audio_info.e_channels = 4.
+APP_CFG_RECID_AUD_MTS set 1 ~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 24
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 6
+acfg_custom_update ACFG_UPDATE_REASON_CHG_AUD_FMT @@@@@@@@@@@@@@@
+acfg_custom_update_all android source ui1_src_idx: 3  ! ~~~~~~~~~~
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_cfg_custom_get_audio_filter() failed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed, i4_ret=-7.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts() failed, ret = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_this->t_last_notify.i2_value=2
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2876) t_audio_info.e_channels = 4.
+APP_CFG_RECID_AUD_MTS set 1 ~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 24
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 6
+acfg_custom_update ACFG_UPDATE_REASON_CHG_AUD_FMT @@@@@@@@@@@@@@@
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+acfg_custom_update_all android source ui1_src_idx: 3  ! ~~~~~~~~~~
+[dtv_app_mtk]>
+[NAV_3D] _nav_3d_mode_refresh_msg(): BIVL = FALSE, YouToBe = FALSE, RVU = FALSE, 3D SOURCE = FALSE, 3D signal Notification = ON...
+No Need to show scene status for Android _nav_show_scene_status_osd_func
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_cfg_custom_get_audio_filter() failed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed, i4_ret=-7.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts() failed, ret = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_this->t_last_notify.i2_value=2
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2876) t_audio_info.e_channels = 4.
+APP_CFG_RECID_AUD_MTS set 1 ~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+acfg_custom_update_all acfg_custom_update_all 10089 e_update_reason = 6
+acfg_custom_update ACFG_UPDATE_REASON_CHG_AUD_FMT @@@@@@@@@@@@@@@
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+acfg_custom_update_all android source ui1_src_idx: 3  ! ~~~~~~~~~~
+[nav][event info]pt_video_info->e_src_tag3d_type = 0
+No Need to show scene status for Android _nav_show_scene_status_osd_func
+{NAVIGATOR} [nav_bnr_state_handler]Error: _nav_bnr_sh_data_change(): a_nav_ib_info_get_active_status_msg_ex fail, i4_ret = -8
+[VIDEO_FMT_UPDATE] c_svctx_get_video_src_resolution(16854267) ret = 0...
+[VIDEO_FMT_UPDATE] t_timing.e_src_tag3d_type = 0...
+[VIDEO_FMT_UPDATE] notify 3D signal type(0, 0) to android world...
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_cfg_custom_get_audio_filter() failed, i4_ret=-4.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts(): a_aud_mts_get_audio_channel() failed, i4_ret=-7.
+{ACFG} <NAV>Err: _nav_audio_info_acfg_gasd_to_mts() failed, ret = -7
+[APP_AUDIO] nav_audio_info.c:2838 pt_this->t_last_notify.i2_value=2
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2876) t_audio_info.e_channels = 4.
+APP_CFG_RECID_AUD_MTS set 1 ~~~~~~~
+APP_CFG_RECID_AUD_MTS set 4 ~~~~~~~
+[nav_audio_info.c]:a_nav_ai_cfg_mts_change_hdlr(2941) Jp model, non dual mono type, defualt value should be stereo. i2_value = 2.
+[APP_AUDIO] nav_audio_info.c:2968 e_focus=0. e_matrix_mode = 0.
+2k12 c_scc_aud_set_matrix_mode 6 e_matrix_mode = 0 ~~~~~~~~~~~~~~~~~
+[TVAPI]<mtktvapi_volctrl.c: 335:a_mtktvapi_volctrl_notify_internal_vol_change>
+<acfg> Recieve HDMI HDR/SRD change
+ <acfg> b_is_hdmi_hdr_mode not hdr mode!
+[DRV_INTERFACE] Set Operation Error. (-16)
+[TVAPI]<mtktvapi_3dmode.c: 157> pf_g_3dmode_callback(1, -1216920456, 0, 0, 0, 0)...
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.dev_____update pos_1_____
+joe.dev_____update pos_1_____
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+[DRV_INTERFACE] Set Operation Error. (-16)
+joe.acfg_video_get.APP_CFG_RECID_VID_3D_MODE___
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+{ACFG} <ACFG> Return fail:acfg_cust_video.c:16511:-4
+[POP] Color Temp = 1. acfg_cust_video_update:15526
+[ACFG] RGB main. acfg_cust_video_update:16778
+[ACFG] RGB main. acfg_cust_video_update:16778
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+[ACFG] RGB main. acfg_cust_video_update:16778
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+[ACFG] RGB main. acfg_cust_video_update:16778
+{ACFG} <ACFG> Return fail:acfg_cust_video.c:15556:-4
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 1 ~~~~~~~~~~~~~~~~~~~
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 2 ~~~~~~~~~~~~~~~~~~~
+[ACFG] RGB main. acfg_cust_video_update:16778
+[ACFG] RGB main. acfg_cust_video_update:16778
+[ACFG] RGB main. acfg_cust_video_update:16778
+[ACFG] RGB main. acfg_cust_video_update:16778
+[ACFG] RGB main. acfg_cust_video_update:16778
+[ACFG] RGB main. acfg_cust_video_update:16778
+_nav_ai_view_update_audio_lang PLF_OPT_REGION_LATAM 9 ~~~~~~~~~~~~~~~~~~~
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+**** [nav_audio_info_view.c]: _nav_ai_view_update_audio_lang(3331) t_ash_audio_info.e_aud_fmt=4 e_channels=4
+[TVAPI]<mtktvapi_osdmessage.c: 127> a_mtktvapi_osdmessage_hide.
+[TVAPI]<mtktvapi_osdmessage.c: 131> pf_g_osdmessage_callback From a_mtktvapi_osdmessage_hide
+{_VdpUnmuteStatusNotify, 4277} return reason: NULL == _arMwVdp[0].pfEosNfy
+[dtv_app_mtk]>{_VdpUnmuteStatusNotify, 4277} return reason: NULL == _arMwVdp[1].pfEosNfy
+[ 1572.285788] [I SSRV] SOPQS_CTRL_SendEvent(30)
+[dtv_app_mtk]>[nav_bnr_jni]nav_bnr_jni.c,nav_bnr_jni_banner_state_change_notify,390-->banner state change 0
+[nav_bnr_jni]nav_bnr_jni.c,nav_bnr_jni_banner_state_change_notify,390-->banner state change 0
+[ 1577.958207] [I EXTFRC] update_panel_control_temperature [63]
