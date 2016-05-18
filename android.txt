@@ -1,0 +1,22 @@
+com.sony.dtv.configsettings/.picturesettings.PictureSettingActivity am start -a android.intent.action.MAIN -n
+
+
+com.sony.dtv.configsettings/.picturesettings.PictureSettingActivity
+
+am start -a android.intent.action.MAIN -n com.sony.dtv.configsettings/.picturesettings.PictureSettingActivity
+
+com.sony.dtv.configsettings/.picturesettings.PictureSettingActivity
+
+am start -a android.intent.action.MAIN -n com.sony.dtv.configsettings/.picturesettings.PictureSettingActivity
+
+com.sony.dtv.configsettings/.picturesettings.PictureSettingActivity t11
+
+am start -a android.intent.action.MAIN -n com.sony.dtv.configsettings/.picturesettings.PictureSettingActivity t11
+
+am start -a android.intent.action.MAIN -n com.android.tv.settings/com.sony.dtv.settings.sound.TvSoundActivity
+
+am start -a android.intent.action.MAIN -n mtktvapi.highlevel/.MyActivity
+
+input keyevent 20
+
+cat /proc/kmsg

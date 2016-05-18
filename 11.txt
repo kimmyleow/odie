@@ -1,0 +1,7 @@
+color_space_cmb - 3 0-ok
+c_m_video_input_path - 8
+color_space - 0
+pic_mode - 1
+xvycc - 2
+photo_color_space - 0
+

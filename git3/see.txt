@@ -1,0 +1,33 @@
+srs_op_mode_cmb (cmb trigger)
+-c_m_scl_out_fmt
+-c_tv_out_fmt
+
+srs_config_ind
+-srs_mode 
+-srs_ratio
+-srs_dbreqintvl 
+
+Problem
+this issue happened because the SRS trying to output 4k format to a 2k signal
+
+srs_op_mode_cmb OK
+the value chg when it detect the correct signal
+srs_config_ind NG
+index chg happen when user switch btw 2k & 4k
+
+what the relationship btw srs_op_mode_cmb && srs_config_ind
+
+4k
+(cmb)125 1 4k-4k
+(ind)1 4k-4k
+
+4k->2k
+(cmb)0 2k->4k
+(ind)0 2k->4k
+
+
+cmb trigger happen (srs_op_mode_cmb - OK) -> callbacktable -> notify index change (srs_config_ind - NG) -> param (send wrong value to param)
+
+when playing 2k video
+t 0x0031 1 (NG) 
+t 0x0032 1 (OK)
