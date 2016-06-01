@@ -4,3 +4,5 @@ this is a test. then i added in this line after commit
 this is a test.
 different branch commit.
 >>>>>>> new_branch
+
+adding this to test for rebase
