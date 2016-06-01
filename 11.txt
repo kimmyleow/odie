@@ -6,5 +6,9 @@ xvycc - 2
 photo_color_space - 0
 bbbb
 
+<<<<<<< HEAD
 
 add in after add in at github
+=======
+I add in this line just for testing.
+>>>>>>> 4adf8f93e42e8c351568f1904e949639b81fe882
