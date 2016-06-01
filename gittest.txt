@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 this is a test. then i added in this line after commit
 =======
-this is a test.
+this is a  not a test.
 different branch commit.
 >>>>>>> new_branch
 
